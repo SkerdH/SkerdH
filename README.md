@@ -8,6 +8,7 @@
   - [Active-Directory-Home-Lab](https://github.com/SkerdH/Active-Directory-Basic-Home-Lab)
   - [OpenVas-Vulnerability-Management](https://github.com/SkerdH/Vulnerability-Management)
   - [Azure-SIEM-Home-Lab/Honeypot](https://github.com/SkerdH/Azure-SIEM-Lab)
+  - [Malware-analysis-Home-Lab](https://github.com/SkerdH/Malware-Analysis-Home-Lab)
 - <b>Learning software</b>
   - [Splunk](https://github.com/SkerdH/Learning-Splunk)
   - [Tcpdump](https://github.com/SkerdH/tcpdump)
