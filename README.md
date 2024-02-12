@@ -9,6 +9,8 @@
   - [OpenVas-Vulnerability-Management](https://github.com/SkerdH/Vulnerability-Management)
   - [Azure-SIEM-Home-Lab/Honeypot](https://github.com/SkerdH/Azure-SIEM-Lab)
   - [Malware-Analysis-Home-Lab](https://github.com/SkerdH/Malware-Analysis-Home-Lab)
+  - [Azure-RBAC-Managment-Lab](https://github.com/SkerdH/Azure-RBAC-Managment)
+  - [AWS-Cloud-Managment](https://github.com/SkerdH/AWS-Cloud)
 - <b>Learning software</b>
   - [Splunk](https://github.com/SkerdH/Learning-Splunk)
   - [Tcpdump](https://github.com/SkerdH/tcpdump)
