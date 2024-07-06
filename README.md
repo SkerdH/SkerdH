@@ -16,7 +16,7 @@
   - [Tcpdump](https://github.com/SkerdH/tcpdump)
   - [Wireshark](https://github.com/SkerdH/Wireshark)
 - <b>Essays and Assignments</b>
-  -[GRC](https://github.com/SkerdH/GRC-Projects)
+  - [GRC](https://github.com/SkerdH/GRC-Projects)
 - <b>Coding</b>
   - [CSV Reader](https://github.com/SkerdH/Csv-file-reader)
 
