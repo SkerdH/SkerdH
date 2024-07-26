@@ -11,7 +11,7 @@
   - [Malware-Analysis-Home-Lab](https://github.com/SkerdH/Malware-Analysis-Home-Lab)
   - [Azure-RBAC-Managment-Lab](https://github.com/SkerdH/Azure-RBAC-Managment)
   - [AWS-Cloud-Managment](https://github.com/SkerdH/AWS-Cloud)
-  - [AWS-Secure-WebApp-Architecture](https://github.com/SkerdH/AWS-Cloud)
+  - [AWS-Secure-WebApp-Architecture](https://github.com/SkerdH/AWS)
 - <b>Learning software</b>
   - [Splunk](https://github.com/SkerdH/Learning-Splunk)
   - [Tcpdump](https://github.com/SkerdH/tcpdump)
