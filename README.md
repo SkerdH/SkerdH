@@ -12,6 +12,7 @@
   - [Azure-RBAC-Managment-Lab](https://github.com/SkerdH/Azure-RBAC-Managment)
   - [AWS-Cloud-Managment](https://github.com/SkerdH/AWS-Cloud)
   - [AWS-Secure-WebApp-Architecture](https://github.com/SkerdH/AWS)
+  - [Azure-Security-Compliance](https://github.com/SkerdH/Azure-Security-Compliance)
 - <b>Learning software</b>
   - [Splunk](https://github.com/SkerdH/Learning-Splunk)
   - [Tcpdump](https://github.com/SkerdH/tcpdump)
