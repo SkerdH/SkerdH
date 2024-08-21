@@ -6,8 +6,9 @@
 
 - <b>Homelabs</b>
   - [Azure-Automation](https://github.com/SkerdH/Azure-Automation)
-  - [Active-Directory-Home-Lab](https://github.com/SkerdH/Active-Directory-Basic-Home-Lab)
+  - [OnPremise-Private-AI](https://github.com/SkerdH/OnPremise-Private-AI/tree/main)
   - [Azure-ML-Cluster-Modeling](https://github.com/SkerdH/Azure-Cluster-Modeling/tree/main)
+  - [Active-Directory-Home-Lab](https://github.com/SkerdH/Active-Directory-Basic-Home-Lab) 
   - [OpenVas-Vulnerability-Management](https://github.com/SkerdH/Vulnerability-Management)
   - [Azure-SIEM-Home-Lab/Honeypot](https://github.com/SkerdH/Azure-SIEM-Lab)
   - [Malware-Analysis-Home-Lab](https://github.com/SkerdH/Malware-Analysis-Home-Lab)
