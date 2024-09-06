@@ -7,6 +7,7 @@
 - <b>Projects</b>
   - [Azure-Automation](https://github.com/SkerdH/Azure-Automation)
   - [OnPremise-Private-AI](https://github.com/SkerdH/OnPremise-Private-AI/tree/main)
+  - [Open-Source-Fully-functioning-SOC](https://github.com/SkerdH/Open-Source-Fully-functioning-SOC/tree/main)
   - [Azure-ML-Cluster-Modeling](https://github.com/SkerdH/Azure-Cluster-Modeling/tree/main)
   - [AWS-Three-Tier-Architecture](https://github.com/SkerdH/AWS)
   - [Active-Directory-Home-Lab](https://github.com/SkerdH/Active-Directory-Basic-Home-Lab) 
