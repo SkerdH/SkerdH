@@ -9,6 +9,7 @@
   - [OnPremise-Private-AI](https://github.com/SkerdH/OnPremise-Private-AI/tree/main)
   - [Open-Source-Fully-functioning-SOC](https://github.com/SkerdH/Open-Source-Fully-functioning-SOC/tree/main)
   - [Azure-ML-Cluster-Modeling](https://github.com/SkerdH/Azure-Cluster-Modeling/tree/main)
+  - [Adversary Discovery using Cyber-Kill-Chain](https://github.com/SkerdH/Cyber-Kill_chain/tree/main)
   - [AWS-Three-Tier-Architecture](https://github.com/SkerdH/AWS)
   - [Active-Directory-Home-Lab](https://github.com/SkerdH/Active-Directory-Basic-Home-Lab) 
   - [OpenVas-Vulnerability-Management](https://github.com/SkerdH/Vulnerability-Management)
