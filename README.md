@@ -5,6 +5,7 @@
 
 
 - <b>Projects</b>
+  - [Secure Windows File System with Automated Permissions Management](https://github.com/SkerdH/File-Systems)
   - [Azure-Automation](https://github.com/SkerdH/Azure-Automation)
   - [OnPremise-Private-AI](https://github.com/SkerdH/OnPremise-Private-AI/tree/main)
   - [Open-Source-Fully-functioning-SOC](https://github.com/SkerdH/Open-Source-Fully-functioning-SOC/tree/main)
